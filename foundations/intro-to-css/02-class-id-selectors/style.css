@@ -1,0 +1,18 @@
+/* class1 */
+.odd{
+    background-color: rgb(255, 153, 204);
+    font-family: Verdana, Geneva, DejaVu-Sans,sans-serif;
+}
+#even{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd.extra{
+    font-size: 24px;
+}
+
+#id2{
+    background-color: rgb(102, 255, 102);
+    font-size: 24px;
+}
